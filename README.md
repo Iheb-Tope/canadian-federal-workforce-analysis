@@ -12,9 +12,9 @@
 - **Project type:** Portfolio case study for junior HR Data Analyst / HR Reporting Analyst roles
 
 ##Dashboard Preview
-<img width="962" height="543" alt="image" src="https://github.com/user-attachments/assets/1877006c-819e-4339-bb4b-847d7c9e9238" />
-<img width="961" height="543" alt="image" src="https://github.com/user-attachments/assets/f8b4d3c1-bab6-440e-b915-77fe0ee21457" />
-<img width="960" height="538" alt="image" src="https://github.com/user-attachments/assets/fa2da1e0-b0bf-4275-a255-92837e1a63e9" />
+<img width="1051" height="602" alt="image" src="https://github.com/user-attachments/assets/8718acf6-b9da-4128-a6f2-950ad7e93393" />
+<img width="951" height="533" alt="image" src="https://github.com/user-attachments/assets/e2e24170-a359-48d5-b9d2-7e42a5562501" />
+<img width="1046" height="607" alt="image" src="https://github.com/user-attachments/assets/f839259e-d71e-4628-80d2-a5238b79554a" />
 
 ## Project Overview
 
