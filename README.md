@@ -13,7 +13,7 @@
 
 ##Dashboard Preview
 <img width="1051" height="602" alt="image" src="https://github.com/user-attachments/assets/8718acf6-b9da-4128-a6f2-950ad7e93393" />
-<img width="951" height="533" alt="image" src="https://github.com/user-attachments/assets/e2e24170-a359-48d5-b9d2-7e42a5562501" />
+<img width="1052" height="606" alt="image" src="https://github.com/user-attachments/assets/30f5d308-ccf6-4d11-8c6d-e3daa2b8c186" />
 <img width="1046" height="607" alt="image" src="https://github.com/user-attachments/assets/f839259e-d71e-4628-80d2-a5238b79554a" />
 
 ## Project Overview
